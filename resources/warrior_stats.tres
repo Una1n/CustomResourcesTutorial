@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="CharacterStats" load_steps=2 format=3 uid="uid://d4evumeqf0ikx"]
+
+[ext_resource type="Script" path="res://character_stats.gd" id="1_oe2go"]
+
+[resource]
+script = ExtResource("1_oe2go")
+intelligence = 1
+strength = 10
+dexterity = 1
+starting_health = 100
+max_health = 100

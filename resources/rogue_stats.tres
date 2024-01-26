@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="CharacterStats" load_steps=2 format=3 uid="uid://d2wkm1hsjbmt1"]
+
+[ext_resource type="Script" path="res://character_stats.gd" id="1_r85tp"]
+
+[resource]
+script = ExtResource("1_r85tp")
+intelligence = 1
+strength = 1
+dexterity = 10
+starting_health = 90
+max_health = 90
